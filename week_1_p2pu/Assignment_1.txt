@@ -1,0 +1,8 @@
+Answers for assignment one: http://p2pu.org/webcraft/learning-web-ui-automation/document/week-1-automation-basics-and-locators
+ 
+Table with Selectors:
+
+ID	Name	Link				Xpath					CSS
+N/A	N/A	selenium.click(link=Alerts*)	selenium.click(“//li[@id='c-72']/a”)	selenium.click("css=li#c-72 a")
+N/A	N/A	selenium.click(link=Appe*)	selenium.click(“//li[@id='c-14']/a”)	selenium.click("css=li#c-14 a")
+N/A	N/A	selenium.click(link=Bookma*)	selenium.click(“//li[@id='c-22']/a”)	selenium.click("css=li#c-22 a")
